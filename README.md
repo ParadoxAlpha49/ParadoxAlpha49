@@ -4,14 +4,14 @@
 
 ## I'm a Developer, and student !!
 
-- 🔭 I’m currently working on Team Paradox 
-- 🌱 I’m currently learning Java, Python, C# 
-- 👯 I’m looking to collaborate on group project
-- 🤔 I’m looking for help with any type of Tech info
-- 💬 Ask me about java and python stuff
-- 📫 How to reach me: Facebook- [@Sazzadsarker49](https://www.facebook.com/Sazzadsarker49/)
-- 😄 Pronouns: He 
-- ⚡ Fun fact: I love to CODE!! 
+-  I’m currently working on Team Paradox 
+-  I’m currently learning Java, Python, C# 
+-  I’m looking to collaborate on group project
+-  I’m looking for help with any type of Tech info
+-  Ask me about java and python stuff
+-  How to reach me: Facebook- [@Sazzadsarker49](https://www.facebook.com/Sazzadsarker49/)
+-  Pronouns: He 
+-  Fun fact: I love to CODE!! 
 
 ### Connect with me:
 
