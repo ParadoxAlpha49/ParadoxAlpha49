@@ -37,7 +37,7 @@
 <br />
 <br />
 <img align="left" alt="ParadoxAlpha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ParadoxAlpha49&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ParadoxAlpha49&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs?username=ParadoxAlpha49&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
