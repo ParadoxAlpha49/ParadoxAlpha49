@@ -50,5 +50,5 @@
 
 [twitter]: https://twitter.com/sazzadsarker1
 [youtube]: https://www.youtube.com/channel/UCVQS-EeEa08pOrViEk7xe6A/featured?view_as=subscriber
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/sazzad_sarker_/
 [linkedin]: https://www.linkedin.com/in/sazzad-sarker-076235136/  
