@@ -18,6 +18,7 @@
 [<img align="left" alt="SazzadSarker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="SazzadSarker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SazzadSarker | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ParadoxAlpha49) 
 
 <br/>
 
@@ -45,4 +46,4 @@
 [twitter]: https://twitter.com/sazzadsarker1
 [youtube]: https://www.youtube.com/channel/UCVQS-EeEa08pOrViEk7xe6A/featured?view_as=subscriber
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://www.linkedin.com/in/sazzad-sarker-076235136/
+[linkedin]: https://www.linkedin.com/in/sazzad-sarker-076235136/  
