@@ -1,6 +1,6 @@
 ### Hi there, I'm Sazzad 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Sazzad Sarker?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sazzadsarker1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ParadoxAlpha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sazzadsarker1)
 
 ## I'm a Developer, and student !!
 
