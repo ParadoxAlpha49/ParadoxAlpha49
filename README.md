@@ -37,8 +37,13 @@
 
 <br /> <br /> <br />
 
-<img align="left" alt="ParadoxAlpha49's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ParadoxAlpha49&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ParadoxAlpha49&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParadoxAlpha49&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxAlpha49&layout=compact)
+
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParadoxAlpha49&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParadoxAlpha49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
