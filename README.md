@@ -12,6 +12,9 @@
 -  How to reach me: Facebook- [@Sazzadsarker49](https://www.facebook.com/Sazzadsarker49/)
 -  Fun fact: I love to CODE!! 
 
+## Profile Overview
+![Profile views](https://gpvc.arturio.dev/ParadoxAlpha49)
+
 ### Connect with me:
 
 [<img align="left" alt="SazzadSarker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
