@@ -20,7 +20,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/ParadoxAlpha49) 
 
 <br/>
-
+## Profile Overview
+![Profile views](https://gpvc.arturio.dev/ParadoxAlpha49)
 ### Languages and Tools:
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png" />
