@@ -45,6 +45,7 @@
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/arduino/arduino.png" />
 <img align="left" alt="adobe_illustrator" width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
 <img align="left" alt="tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
+<img align="left" alt="tensorflow" width="26px" src="https://i.ytimg.com/vi/XtorXzHg2UU/hqdefault.jpg" />
 
 <br /> <br /> <br /><br />
 
