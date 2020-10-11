@@ -43,7 +43,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="MatLab" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/matlab/matlab.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/arduino/arduino.png" />
-<br/ >
 <img align="left" alt="adobe_illustrator" width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
 <img align="left" alt="tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="tensorflow" width="26px" src="https://i.ytimg.com/vi/XtorXzHg2UU/hqdefault.jpg" />
