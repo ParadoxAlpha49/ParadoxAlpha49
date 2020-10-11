@@ -1,6 +1,7 @@
 ### Hi there, I'm Paradox Alpha Aka Sazzad Sarker 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ParadoxAlpha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sazzadsarker1)
+[![Facebook Follow](https://img.shields.io/facebook/follow/ParadoxAlpha?color=1DA1F2&logo=facebook&style=for-the-badge)](https://www.facebook.com/Sazzadsarker49/)
 
 ## I'm a Developer, and student !!
 
