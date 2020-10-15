@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ParadoxAlpha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sazzadsarker1)
 
-## I'm a Developer, and student !!
+## I'm a Developer, and Student !!
 
 - ⚡I’m currently working on Team Paradox 
 - ⚡ I’m currently learning Java, Python, C# 
