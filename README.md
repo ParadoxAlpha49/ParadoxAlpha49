@@ -9,7 +9,7 @@
 - ⚡ I’m looking to collaborate on group project
 - ⚡ I’m looking for help with any type of Tech info
 - ⚡ Ask me about programming and psychology stuff
-- 👯 How to reach me: Facebook- [@Sazzadsarker49](https://www.facebook.com/Sazzadsarker49/)
+- 👯 How to reach me: Email- [sazzadsarker.ipe@gmail.com]
 - 🥅 Fun fact: I love to CODE!! 
 
 ## Profile Overview
