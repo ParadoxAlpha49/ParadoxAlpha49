@@ -1,10 +1,10 @@
-### Hi there, I'm Paradox Alpha Aka Sazzad Sarker 👋
+### Hi there, I'm Paradox Alpha Aka Md Sazzad Sarker 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ParadoxAlpha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sazzadsarker1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SazzadSarker?color=1DA1F2&logo=twitter&style=for-the-badge)](https://x.com/SazzadSarker7)
 
-## I'm a Developer, and Student !!
+##  Industrial and Production Engineering Undergrad | Certified Chartered Supply Chain Professional | Research Enthusiast
 
-- ⚡I’m currently working on Team Paradox 
+- ⚡I’m currently working with Team Paradox 
 - ⚡ I’m currently learning Java, Python, C# 
 - ⚡ I’m looking to collaborate on group project
 - ⚡ I’m looking for help with any type of Tech info
@@ -54,7 +54,7 @@
 
 
 
-[twitter]: https://twitter.com/sazzadsarker1
+[twitter]: https://x.com/SazzadSarker7
 [youtube]: https://www.youtube.com/channel/UCVQS-EeEa08pOrViEk7xe6A/featured?view_as=subscriber
 [instagram]: https://www.instagram.com/sazzad_sarker_/
-[linkedin]: https://www.linkedin.com/in/sazzad-sarker-076235136/  
+[linkedin]: https://www.linkedin.com/in/sazzadsarker/
