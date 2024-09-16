@@ -12,8 +12,6 @@
 - 👯 How to reach me: Email- [sazzadsarker.ipe@gmail.com]
 - 🥅 Fun fact: I love to CODE!! 
 
-## Profile Overview
-![Profile views](https://gpvc.arturio.dev/ParadoxAlpha49)
 
 ### Connect with me:
 
