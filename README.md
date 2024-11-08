@@ -1,4 +1,4 @@
-### Hi there, I'm Paradox Alpha Aka Md Sazzad Sarker 👋
+### Hi there, I'm Paradox Alpha Aka MD Sazzad Sarker 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SazzadSarker?color=1DA1F2&logo=twitter&style=for-the-badge)](https://x.com/SazzadSarker7)
 
